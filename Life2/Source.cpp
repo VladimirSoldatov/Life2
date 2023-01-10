@@ -127,7 +127,7 @@ int main()
 		array[i] = new bool[rows];
 	}
 	first_gen(array, columns, rows);
-
+	//ha-ha
 	while (true)
 	{
 
